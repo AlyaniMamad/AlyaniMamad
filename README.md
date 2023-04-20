@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **alyanimamadbhai@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18JeAvNaKSSwfXnV7sm4a1v3lofDDBIaU/view?usp=share_link](https://drive.google.com/file/d/18JeAvNaKSSwfXnV7sm4a1v3lofDDBIaU/view?usp=share_link)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
