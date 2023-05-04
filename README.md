@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/alyani_mamad72" target="blank"><img src="https://img.shields.io/twitter/follow/alyani_mamad72?logo=twitter&style=for-the-badge" alt="alyani_mamad72" /></a> </p>
 
-- 🌱 I’m currently learning **Advanced React Js & DSA**
+- 🌱 I’m currently learning **React Js & DSA**
 
 - 👨‍💻 All of my projects are available at [https://alyani-portfolio.netlify.app/](https://alyani-portfolio.netlify.app/)
 
