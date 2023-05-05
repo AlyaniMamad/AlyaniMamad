@@ -36,4 +36,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alyanimamad&" alt="alyanimamad" /></p>
 
-https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg
+<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=alyanimamad&](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg)" alt="alyanimamad" /></p>
