@@ -35,5 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alyanimamad&show_icons=true&locale=en" alt="alyanimamad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alyanimamad&" alt="alyanimamad" /></p>
-
-<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=alyanimamad&](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg)" alt="alyanimamad" /></p>
