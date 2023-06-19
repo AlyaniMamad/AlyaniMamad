@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://alyani-portfolio.netlify.app/](https://alyani-portfolio.netlify.app/)
 
-- 💬 Ask me about **react, Front-End Devlopment**
+- 💬 Ask me about **react, Front-End Development**
 
 - 📫 How to reach me **alyanimamadbhai@gmail.com**
 
